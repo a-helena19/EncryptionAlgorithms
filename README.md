@@ -13,7 +13,7 @@ As a hint: Read the variable names and follow the comments
 
 ## Getting started
 
-To get this program, you can easily clone the repository onto your own local computer and run it using intelliJ or eclipse (IDE) with a java sdk.
+To get this program, you can easily download the file onto your own local computer and run it using intelliJ or eclipse (IDE) with a java sdk.
 
 ## Maintainers
 
